@@ -1,4 +1,3 @@
-*.exe
 # Ignore all
 *
 
@@ -7,3 +6,6 @@
 
 # Unignore all dirs
 !*/
+
+# Ignore all exe files
+*.exe
