@@ -3,13 +3,13 @@
 /*
 Algorithm:
 
-
 START
 Step 1 → Declare two arrays of 5 elements
 Step 2 → Read the elements from the user
 Step 3 → Copy the elements of the first array into the second array
 Step 4 → Print the elements of both arrays
 STOP
+
 */
 
 #include <stdio.h>

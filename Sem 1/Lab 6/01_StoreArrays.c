@@ -8,6 +8,7 @@ Step 1 → Declare an array of 5 elements
 Step 2 → Read the elements from the user
 Step 3 → Print the elements
 STOP
+
 */
 
 #include <stdio.h>
