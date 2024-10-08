@@ -1,5 +1,15 @@
 // Write a program in C to read n number of values in an array and display them in reverse order
 
+/*
+Algorithm:
+
+START
+Step 1 → Declare an array of 5 elements
+Step 2 → Read the elements from the user
+Step 3 → Print the elements in reverse order
+STOP
+*/
+
 #include <stdio.h>
 
 int main()
