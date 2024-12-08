@@ -6,7 +6,7 @@ int main()
     int *z = &m; 
 
     printf("z address of m  = %p\n", z); 
-    printf("*z value of m = %i\n", *z); 
+    printf("*z value of m = %d\n", *z); 
     printf("address of m = %p\n", &m); 
     printf("address of n = %p\n", &n);
     printf("address of o = %p\n", &o); 
